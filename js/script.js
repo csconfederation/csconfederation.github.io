@@ -24,21 +24,7 @@ Generator.credits = {
 };
 
 Generator.eventNames = {
-    "boston18"              : "Boston 2018",
-    "boston18 (illustrated)": "Boston 2018 (Illustrated)",
-    "krakow17 (gold)"       : "Krakow 2017 (Gold)",
-    "krakow17"              : "Krakow 2017",
-    "krakow17 (foil)"       : "Krakow 2017 (Foil)",
-    "atlanta17 (foil)"      : "Atlanta 2017 (Foil)",
-    "columbus16"            : "Columbus 2016",
-    "columbus16 (foil)"     : "Columbus 2016 (Foil)",
-    "cologne16"             : "Cologne 2016",
-    "cologne16 (foil)"      : "Cologne 2016 (Foil)",
-    "cologne15"             : "Cologne 2015",
-    "comedy15"              : "Comedy 2015",
-    "dreamhack15"           : "Dreamhack 2015",
-    "dreamhack15 (old)"     : "Dreamhack 2015 (old)",
-    "krakow17 (comedy)"     : "Krakow 2017 (Comedy)"
+    "csc"              : "Counter Strike Confederation"
 };
 
 Generator.backgrounds = [
@@ -49,13 +35,8 @@ Generator.backgrounds = [
 ];
 
 Generator.events = {
-    "boston18" : [
-        "FaZe", "SK", "VirtusPro", "Fnatic", "Astralis", "Cloud9", "G2", "Liquid",
-        "Sprout", "NaVi", "EnVyUs", "100Thieves",
-        "Vega Squadron", "Space Soldiers", "Gambit",
-        "Misfits", "Renegades", "AVANGAR", "Flipsid3",
-        "North", "Mousesports", "BIG", "Flash",
-        "Quantum Bellator Fire", "Tyloo"
+    "csc" : [
+        "AP"
     ],
     "boston18 (illustrated)" : [
         "100Thieves", "Astralis", "BIG", "Cloud9", "EnVyUs", "FaZe", "Flash", "Flipsid3",
@@ -125,7 +106,7 @@ Generator.lastEvent         = null;
 Generator.downloadName      = "csgo_signature.png";
 Generator.labelColor        = "#FFFFFF";
 Generator.labelText         = '';
-Generator.backgroundSource  = '/csgo-sticker-signature-generator/bg.png';
+Generator.backgroundSource  = 'bg.png';
 Generator.textStyle         = 'false';
 
 Generator.defaultBG         = Generator.backgroundSource;
