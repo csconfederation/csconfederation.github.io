@@ -36,7 +36,7 @@ Generator.backgrounds = [
 
 Generator.events = {
     "csc" : [
-        "AP", "COW"
+        "ACA", "AP", "ATL", "ATO", "AVI", "BS", "FRG", "GAS", "COW", "H4K", "HEL", "HG", "NAN", "OS", "SAV", "UPS", "WET", "YC"
     ]
 };
 
