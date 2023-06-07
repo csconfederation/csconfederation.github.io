@@ -25,7 +25,7 @@ Generator.credits = {
 
 Generator.eventNames = {
     "csc"              : "Counter Strike Confederation",
-    "csc"              : "Counter Strike Confederation - Pride"
+    "cscpride"         : "Counter Strike Confederation - Pride"
 };
 
 Generator.backgrounds = [
