@@ -24,7 +24,8 @@ Generator.credits = {
 };
 
 Generator.eventNames = {
-    "csc"              : "Counter Strike Confederation"
+    "csc"              : "Counter Strike Confederation",
+    "csc"              : "Counter Strike Confederation - Pride"
 };
 
 Generator.backgrounds = [
@@ -36,6 +37,9 @@ Generator.backgrounds = [
 
 Generator.events = {
     "csc" : [
+        "ACA", "AP", "ATL", "ATO", "AVI", "BS", "FRG", "GAS", "COW", "H4K", "HEL", "HG", "NAN", "OS", "SAV", "UPS", "WET", "YC", "FA", "PFA", "Blank"
+    ],
+    "cscpride" : [
         "ACA", "AP", "ATL", "ATO", "AVI", "BS", "FRG", "GAS", "COW", "H4K", "HEL", "HG", "NAN", "OS", "SAV", "UPS", "WET", "YC", "FA", "PFA", "Blank"
     ]
 };
