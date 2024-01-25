@@ -21,6 +21,8 @@ Generator.createCreditLink = function(url, name, steamid){
 Generator.credits = {
     "boston18 (illustrated)": Generator.createCreditLink("steam", "TrollzDyztroyed", "76561198278589065"),
     "comedy15"              : Generator.createCreditLink("steam", "CrueLy", "76561198082596568"),
+    "csc"                   : Generator.createCreditLink("steam", "ry^_^", "76561198017120303"),
+    "cscpride"              : Generator.createCreditLink("steam", "ry^_^", "76561198017120303"),
 };
 
 Generator.eventNames = {
@@ -37,10 +39,10 @@ Generator.backgrounds = [
 
 Generator.events = {
     "csc" : [
-        "ACA", "AP", "ATL", "ATO", "AVI", "BS", "FRG", "GAS", "COW", "H4K", "HEL", "HG", "NAN", "OS", "SAV", "UPS", "WET", "YC", "FA", "PFA", "Blank"
+        "ABW", "ACA", "AP", "ATL", "ATO", "AVI", "DB", "DRG", "BS", "FRG", "GAS", "COW", "H4K", "HEL", "HG", "LEC", "NAN", "OS", "SAV", "UPS", "WET", "FA", "PFA", "Blank"
     ],
     "cscpride" : [
-        "ACA", "AP", "ATL", "ATO", "AVI", "BS", "FRG", "GAS", "COW", "H4K", "HEL", "HG", "NAN", "OS", "SAV", "UPS", "WET", "YC", "FA", "PFA", "Blank"
+        "ABW", "ACA", "AP", "ATL", "ATO", "AVI", "DB", "DRG", "BS", "FRG", "GAS", "COW", "H4K", "HEL", "HG", "LEC", "NAN", "OS", "SAV", "UPS", "WET", "FA", "PFA", "Blank"
     ]
 };
 
